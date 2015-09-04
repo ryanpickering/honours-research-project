@@ -1,0 +1,3 @@
+reminder to myslef - I will be organizing my bibliography material through zotero as it is simple, and will export my bibliography every week or two weeks to github as a CSV or other simple file format. 
+
+as i like using notational velocity and find it easy to sync to github, i will not worry about changing my notestyle yet
