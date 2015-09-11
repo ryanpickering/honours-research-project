@@ -1,0 +1,5 @@
+http://wcm1.web.rice.edu/open-notebook-history.html (also in bibliography)
+
+open notebook history is something i explored during 3907b last year - the idea of making notes and ideas all accessible in one place to whomever would like to see. i found it incredibly useful for the same reasons that mcdaniel does: version control, allowing others (ie dr graham or those interested in this material) to see/comment on it constructively, and allowing myself to have the organization of seeing where my ideas came up and how they can connect. 
+
+this is much easier than simply a series of paper notes or word docs as on github it is simple to see date/time of syncing and creation and linking between notes is also easy. on dr. graham's suggestion i am going to put a bit of copyright security on this blog... 
