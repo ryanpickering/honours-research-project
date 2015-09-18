@@ -1,0 +1,8 @@
+http://www.polygon.com/2014/7/23/5926447/dwarf-fortress-will-crush-your-cpu-because-creating-history-is-hard
+
+ - complex procedure to create entirely new worlds at beginning of each new game
+ - geological formations, name generator of places, entire centuries of history happening 1 week at a time in front of you
+ - every game has its own entire lore: players can make their own worlds into wiki-like structures automatically with fan software (Legends Viewer)
+ - intense level of personalization all automated in the span of a few moments
+ - short article but gives a quick look into how DF works in procedurally generating game story
+ 
