@@ -1,0 +1,48 @@
+see: no man's sky and dwarf fortress
+
+looking into this to better understand DF and how to look at the histories it creates for players uniquely
+
+http://www.makeuseof.com/tag/procedural-generation-took-gaming-industry/
+- looks into procedural generation in videogames and why its popular. also how it came about and if it is good for gaming today
+- creation of content through algorithms/code, NOT through people. element of randomness
+- ***here is a good place to bring in info about complexity theory/agent based modelling***
+- rouge (1980) as most important early example: ascii characters used to represent dungeons that were generated at random so no playthrough would be the same (clearly DF draws from this!!!)
+- tetris as new kind of puzzle game w/o just one solution. 
+- randomized elements of games cannot be found outside of videogames mostly
+- diablo in 1996: like rogue but more visually appealing
+- mentions minecraft and dwarf fortress as most powerful representations of this procedural gaming
+
+http://www.giantbomb.com/procedural-generation/3015-328/
+- gives list of games using procedural generation for games - not important atm
+- concept wiki: explores history of concept
+- references fascinating video given by creator of PITFALL: early procedural world creation due to memory constraints
+	- http://www.gdcvault.com/play/1014632/Classic-Game-Postmortem-PITFALL ... click on section 'world layout' and it explores polynomial generation of world. super simple but gives cool look into way procedural generation works in early days
+- notes entirely procedurally generated game, elite: http://www.giantbomb.com/elite/3030-10902/
+
+http://www.gizmag.com/creative-ai-procedural-game-development-angelina/35874/
+- talks about creative AI making procedurally generated videogames!!!
+- ANGELINA creating games by operating along theme lines, extrapolating, applying them to narrow game ideas ie sidescrollers
+- AI as way to tackle game design issues - bring new ideas to the table by just being diff. than people
+- automating game design ie. racetrack design, world design
+- vast worlds can be created w/ procedural generation but are uninteresting if no interesting things to make players do interesting things
+- this piece more about AI...
+
+http://www.polygon.com/2013/12/10/5192058/opinion-stop-dwelling-on-graphics-and-embrace-procedural-generation
+- two ways for game designers to make players feel "free" right now
+	- trick them into following the correct way
+	- build every possibility behind every door
+- this second possibility limits to big budget studios - procedural generation of open worlds open it up
+- back in beginning days of 3d, okay to just make worlds for the look. now defined by interactivity
+- explores ideas of procedurally generated games: unique ecosystems, unique worlds where game plot elements are put in wherever you end up, ideas of procedurally generated games allowing interesting change to occur in small spaces/activities
+
+https://www.reddit.com/r/proceduralgeneration/
+- an entire reddit based on procedurally generated content! includes games along w/ pics, vids, etc.
+- will explore later***
+
+http://pcgbook.com/
+- entire online textbook dedicated to procedurally generated games - literally the motherload source
+- http://pcgbook.com/wp-content/uploads/chapter07.pdf - chapter based on story: will devote entire note to later
+
+http://pcg.wikidot.com/
+- wiki connected to above textbook i believe
+- more primary sources relating to procedurally generated content ie source codes - huge resource

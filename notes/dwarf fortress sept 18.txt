@@ -10,3 +10,7 @@ http://minnesota.universitypressscholarship.com/view/10.5749/minnesota/978081668
 http://www.academia.edu/4010197/Dwarf_Fortress_Narratives_of_Multiplicity_and_Deconstruction
  - overarching piece about dwarf fortress, deconstructs it
  - cybertext theory
+ 
+ http://dwarffortresswiki.org/index.php/DF2014:Legends
+  - wiki article on legends mode: option to reveal all history at beginning or explore throughout by talking to characters, examining abandoned forts, etc.
+  - 

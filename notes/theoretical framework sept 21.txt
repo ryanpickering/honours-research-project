@@ -1,0 +1,46 @@
+moving from 3rd meeting...
+
+initial points:
+- dwarf fortress as procedurally generated histories
+- fallout and bioshock along w/ DF as archival history in games
+- therefore, GAMES TO USE: DF, FALLOUT 3, BIOSHOCK(S), SKYRIM?
+- engaging with these games on game theory and history
+- game theory: why are they engaging, how do they work, what do they show, etc.
+- history: how do they teach history, how are they good history, how is historical consciousness explored with them?
+	- with that, looking at gamer engagement
+
+(skyrim over bioshock??? probably based on amount of lore and tertiary material)
+	
+look at DF on basis of agent based modelling, complexity theory. what comes out is not just what is put in.
+look at fallout/bioshock on basis of archival ideological history - these are opposed to each other
+
+looking at all three games from historical standpoint: this means looking at lore as something tertiary but still engages historical consciousness.
+also, all three as archival history: filling in the blanks of the primary documents/information found
+- this in DF comes out as exploring the world to fill legends mode... also creating narrative stories from actual experiences/histories in game
+- this in fallout comes out as exploring world for obscure terminals that engage with pre-war life, something not explored in actual game
+- in BOTH games, wiki as essential for engagement w/ historical consciousness... legends mode in DF, wiki collaboration in other games, entire online library for elder scrolls universe**
+- DF procedurally generated, fallout/skyrim/bioshock not. is that a huge issue?
+
+theoretical framework for this - archival theory
+- https://en.wikipedia.org/wiki/Archival_science
+- videogames as archives constructed with fictional material
+- weight on what is important vs. what is not, what illuminates what aspect of the world
+
+SO... look at DF and other videogames in terms of lore (for DF, procedurally generated) and its archival role for gamers in the fictionalized world, and how gamers look at this and engage with historical consciousness, doing good history with it. 
+
+DF as procedurally generated worlds with their own advanced history 
+- talk about importance of that in creating unique historical consciousnesses for players (complexity theory etc.). 
+- Then compare that history and the types of history that emerge w/ lore from fallout/skyrim, 
+- emphasizing archival role of the videogame for fictionalized worlds. 
+	- videogame creator/procedures of DF as curator: putting in what is important vs not, what illuminates aspects of the world, etc. 
+	- when players engage, they must fill in blanks and construct full narratives themselves - these become the historical consciousnesses of players and where they do their good history
+- all players of these games can *choose* to engage with history and historical consciousness but can choose to ignore. this gives the histories more value to player - element of "off the beaten track" and mysteriousness to them.
+- wiki-esque areas becomes central point for discussion of videogame as opposed to strategy guides of the past. not only for strategy, but for lore/history/story of games.
+- in fallout/skyrim, lore/history exist as more static stories but still have discussion and negotiation of stories (filling in blanks)
+- in DF, each history is individual but game has mode that takes advantage of depth of historical creation to wiki-fy your world in LEGENDS MODE - players also use this to write stories based on actual expereince in-game that become popular
+- conclusion: what do these games do that leads to good historical consciousnesses emerging from players?
+	- make discoverable in its own right within the gameworld
+	- not given a narrative but rather given bits and pieces for players to piece together
+	- archival, primary documents used to construct our own narratives as opposed to reading long history. brings personification to videogame history
+	- histories in games become place of negotiation between gamers just as world history is place of negotiation between historians - they do good history
+	- whether procedurally generated or not, game lore lends to historical consciousness. 
