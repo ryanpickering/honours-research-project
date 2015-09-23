@@ -1,0 +1,36 @@
+HERE WE GO!
+
+starting world... 
+- complex ways to start world: can't figure out seed gen at first so just starting a random world
+- generating world w/ medium everything, very long history, low beasts/savagery, frequent minerals.
+- generating history right now... running through each year takes about a second
+- year 139 for example has 144K unique events. LOTS of processes here...
+- different ages split time periods... ie. age of myth. i'm sure much of this will be able to be explored later on in legends mode
+- minutes later, year 500 has almost 750K unique events... holy crow
+- also lists # of historical figures and # of dead 
+- stopped history at year 703, w/ 125K hist. figures, 107K dead, 1.1million events.
+- exporting image/info... findable on github under ______
+- HERE WE GO FOR REAL!
+
+saving the world atm...
+- make take a bit?
+- updated world, now have to pick a location.
+- searching based on lots of different factors
+- found a nice spot
+- naming fortress Ucatsuthmam Rekednoval Enir (Beerbreeches the Buttery Bride of Beguilers)
+- now to embark!
+
+begun construction of a fort per video instructions... neat now advanced the game is
+- building fortress in which to have a foothold in this world
+- from there can explore history
+
+woooh... got really drawn into game. have to make a note of focusing on doing RESEARCH in the game as opposed to just playing. tricky tricky tricky to stay focused
+
+oh... can't play DF in both fortress mode AND legends/adventure mode... disappointing. 
+
+retiring: settles the fortress into "rhythm of day to day living beyond my meticulous concern"
+- neat: my fortress (tiny) becomes part of world now
+- saves and now i can look at legends mode perhaps?
+- my actions add on to legends mode accessible history... hmmmm
+- 
+
