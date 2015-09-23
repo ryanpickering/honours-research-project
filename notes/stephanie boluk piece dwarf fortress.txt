@@ -1,0 +1,87 @@
+Dwarven Epitaphs: Procedural Histories in Dwarf Fortress
+
+- history of 21st century not just written by humans... automated processes coauthoring next gen stories. 
+- algorithms running everyday tasks now
+- historians will have to study computer generated material as history, in their terms
+- DF foregrounds operational qualities and creates play from engagement with complex systems
+- begins by generating dynamically produced natural and social history for up to 1000 years
+- recall forms of historical writing departing from human centred and teleological models of history, such as annal, chronicle, calendar.
+- community formed to explore/document/translate results of DF into texts called dwarven epitaphs
+- intersect fan fiction, fan translation and fan archiving of gameplay
+- dwarven epitaphs convert world generator to story generator: mark dissonant registers between human operators and nonhuman operations
+
+- generate world w/ dozens of menus of detailed parameters to generate history too.
+- intense processing power needed to do all of this dynamically
+- after world generation, games becomes city building/military strategy/physics simulation
+- independent dawrven culture can emerge after awhile - dwarves react to things different despite player commands
+- "stone-age" graphic user interface
+- difficulty of use inspires lots of fan activity - tutorials, articles on Magmawiki, and publications
+- no strict requirements for structures, goals, etc. missing much of game material
+- sandbox or simulation???
+- game challenges 30 years of game/computer development, emphasis on processes rather than graphics/physics. 
+- community: "failing is fun" in light of how difficult game is
+- dwarven epitaphs commemorating past play, future failure
+
+narrative bookends
+- inspiration and result of adamses' system
+- deconstructed fantasy stories to uncover logic of genre
+- find rules of fantasy, that are then incorporated into algorithmic processes of DF, thus creating unique experiences in each simulation
+- ie. story about tortured monster taking revenge and eating someone, turns into large scavengers can eat dead, entity hatred emerges from torture, etc., and wrestling as a game mechanic. 
+- translate rules of storyworld into algorithmic processes
+- propagate fantasy narrative events over a simulation
+- however, cohesive stories akin to adams' do not appear: operate under alternative set of logics. create entire world with bare narrative forms ie calendars, chronicle. 
+- player left to fill in pieces of causality
+- DF not as stable piece of software but process of production constantly engaged in textual translations and remediations
+
+- players narrativize losses online: short stories, illustrations, comics, etc. 
+- players interact with micro- and macro-histories to translate massive amounts of data into legible narrative forms
+- ie Tim Denee's comics Oilfurnace and Bronzemurder
+- Tholtig Cryptbrain: anomaly in the game discovered in legends mode
+- Dwarven Computer: render DF as dwarves themselves into creating a computer in the game. 
+- these show, end of the game becomes its own game: move beyond software and presented material and engage in textual pieces: creating narratives and cohesive pieces
+- BOATMURDERED: dr graham mentioned this, it is saved in notes somewhere
+- layering and combo of DF algorithms produce unpredictable effects: complexity theory
+- inexplicability of game claimed as best part: no way to anticipate emergent effects of gameplay
+- ephemeral gameplay quality inspres production of narrative Dwarven Epitaphs
+- commemorate ephemeral moments in a game w/ no win conditions.
+
+- in videogames, rules of game are conflated w/ mechanics governing gameworld
+- social configurations vs. physics. 
+- rules are voluntary attempt to overcome unnecessary obstacles... mechanics are opposite: involuntary and necessary.
+- therefore cant cheat DF - no rules, only unavoidable mechanics. ontological experiment?
+- DF as toolset/platform to experiment, write narratives and invent new games!!!
+- very sandbox-like
+- creators of game invest in *emergence* as core design theory
+- emergent events come from simple mechanics... mechanics of game put together become greater than sum of parts
+- idea of emergence in a thousand years of nonlinear history: every hierarchy is historical construction, product of definite structure generating processes
+- movements of geological forms as inscriptions in and of themselves
+- nonlinear world self-organization take place everywhere
+- considering DF, code in soil?? looks now at dwarven computer
+
+- legends mode and access to textual logs of literally every event: geological formation, architectural constructions, civilizations, historical figures
+- mirrors human insignificance to earths timescale
+- tiny byte-sized processes indexed from larger processes, given textual interface and archived. easily retrievable. 
+- exemplify TALE-SPIN EFFECT???
+- story generation system from mid 70s
+- deceptively simple for the complex dynamics going on
+- no narrative logic of an author or reader in DF legends mode
+- like annal, as impersonal list of events by year. no narrative causality
+- deprivilege human narrative structure within large cosmological landscape
+- conventions of reading passed on from teacher to student, not within books and materials. reading a social practice. books are not 
+- same applies to learning rules of DF interface. must apply own understanding of causality and narrative to sparseness of DF, despite massive scale 
+- humans estranged from nonhuman atypical modes of history production and representation. 
+- hegelian grand narratives rejected by annals: world indifferent to ideology, human struggle, etc. this is the type of history represented by DF 
+- locate us within culture hovering on brink of dissolution: take away human agency and narrative recorded in other histories
+- few reasons ever given: social events as incomprehensible as natural events, recorded simply because they happened. 
+- white attributes annal's neutrality to product of theistic cosmology: "divine will"
+- DF, metaphysical/supernatural explanations for unexpected in game phenomenon. most likely bugs/glitches, but no way to distinguish from other game mechanics)
+- processes of DF like an indifferent absent god
+
+- DF: white and de landa argue traditional forms of history give way for nonteleological histories, reject narrative coherence and logic of process in favour of discontinuous and emergent complexity
+- electronic inscription adds more pressure
+- digital tech reconfiguring hist. models
+- new forms of historical inscription being automated on unimaginable level: every keystroke logged, google docs records every IP address, etc. 
+- microtemporal history of dynamic processes including but not limited to human movements
+- despite this change, humans still place ourselves at centre of all
+- DF imitates these contemporary inscriptions, w/ dwarves though. 
+- dwarven epitaphs as memorials to experience of humans w/ the nonhuman operations of DF
