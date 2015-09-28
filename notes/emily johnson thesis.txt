@@ -16,3 +16,87 @@ https://ejarchaeology.wordpress.com/
 dr graham thinks this is really useful!!!!
 allied but different - doesn't conflict with historical consciousness idea
 sit down and read this piece as soon as possible
+
+-----------
+(notes!)
+
+- ethnographic methods to study how/if gamers engage with the past in skyrim: they do
+- draws from archaeology, anthropology, game studies
+- illustrate importance of entertainment regarding knowledge of the past
+- fisrt chapter is a critical analysis on existing it. on game studies/archaeo
+- mentions both playthepast.org and archaeogaming.com
+- Heritage and Archaeology, Anthropology and Ethnography, and Game Studies: 3 masin areas of (often overlapping) study)
+- within game studies, ludology vs narratology: important for ethnography going on
+- ethnography is involved analysis of a way of life requiring immersion: type of anthropology
+- aspects of ethnography we can use to critically judge it:
+	- questioning the extent to which the work contributes to our understanding of social life, 
+	- the reflexivity with which the text was written, 
+	- the effect that the piece has on the reader themselves, 
+	- and to what extent the text expresses a reality
+
+- METHODOLOGY for examining Skyrim
+- ethnography and research on people possible to be fully anonymous and fully observing, not changing what you observe
+- benefits to joining the community for discussion though
+- influential online ethnography of text based bulletin boards in the 90s, etc. 
+- what will the methodology be for analyzing online social lives of players of single player RPGs?
+	- this is similar to what i am working with
+- field of study was several online forums relating to skyrim ie bethesda's own forums
+- also an anonymous questionaire relating to the subject, distributed through social media
+- pg 27 28 talks about ethical considerations of looking at forums*** use this in reation to kurt's ethics app
+- postprocedural archaeology theoretical frame (post modernist), constructivist grounded
+- looking at her results, methodology skewed what she though tshe was going to get - got lots of survey response but searching forums took a long long time
+
+CASE STUDY INTRO
+- (skyrim as neomedievalism - fantasy genre to give legacy to america vs colonial legacy)
+- drawing parallels between tamriel (gameworld) and our own
+- lore (incomplete and socially constructed) adds to engagement and credibility of gameworld
+- for lore, does bethesda utilize archivists, historians etc, to organize and create history in game? answer: no - informally people in company know it, but they use fan wikis moreso
+- organization of lore by fans acts as jumping off point for continuation of lore in subsequent games by creators!!!
+- potential here for employment of experts - historians, archaeologists, etc. 
+
+ANALYSIS
+- in forums, gamers interact with the past in many ways: discussing lore and mythology of the game world, desire to practice archaeology in game, discussion of representation of cultures in game ie. viking culture and the "nords" of skyrim, 
+- in the survey, lots of things discussed
+- Why play skyrim? 
+	- Developer heritage/cultural heritage: 
+		- game is significant to todays culture, been playing developers games for awhile, scandinavian influence of game, etc.
+	- escapism
+	- immersive game experience "virtual tourism"
+	- scope of customization of character and experience
+	- depth of narrative
+- how does the medieval setting make the game more enjoyable?  
+	- added to believability of game, made it more familiar... shared image of ancient European ancestry?
+		- comforting stereotypes like this a negative trend
+	- interest in real world history allowed for cool engagement with medieval setting
+	- escapism: root of western society, "better times", etc. problematic as depicitng those times as "simpler" or underdeveloped
+	- can actually engage with historical/archaeological practice in game, ie lore understanding, indiana-jones-esque tomb raiding, etc. 
+	- aesthecially pleasing
+- Which aspects of the game connect skyrim to history/archaeology?
+	- real world history: connection to real history themes of today, familiarity
+	- in game engagement with lore******************
+		- MY PROJECT
+		- most common response
+		- engaging with history through primary sources, in a non-linear, subjective way (organic)
+	- physical attributes reminded people of landscape, architecture, etc. in the real world
+	- socio-cultural-political parallels: diversity of cultures, mirroring of real world political things, ie. roman empire or nazis (thalmor)
+	- narrative / language: the character you paly as "makes history"... brings about ideas of agency!
+
+theory of archaeological understanding in skyrim: different dichotomies of experience within the game
+- real history and in game lore ******
+	- links w/ real world history (inspiration and the like) - though none of this is really created through research, but stereotypes/fiction
+- history vs archaeology as activity in skyrim
+	- either engaging with history of Tamriel as comparison to our own world as historians, or interacting w/ trails of evidence in skyrim as archaeo.s
+	- both of these come from players learning experiences and understandings of what is "history" or "archaeology" as have been presented in western pop culture: don't account for multiplicity in either discipline
+- types of archaeology/ways of doing it: embodied vs conceptual
+	- embodied/material archaeology: people being in the world and experiencing it
+	- conceptual: archaeological ways of thinking to understand the worlds they inhabit
+		- the way RPGs make their games archaeological in nature: exploration and discovery?
+		
+will come back to the bibliography of this piece in the near future
+
+main pullaway: does a lot of the research i intend on doing, therefore i can cite some of the research and conclusions in this? theories and conclusions made form the research are archaeological in focus, therefore different from what i want to do and able to put that to the side for now. **idea of gamers engaging with lore as historians do is confirmed in this piece! it's neat!
+- from this point being confirmed, now easier to branch out into the actual meat of it - discussion on wikis, wikis in general, etc. 
+- apply ideas of this ethnography to DF as well: exploration, even though aesthetically pleasing medieval world applies not at all
+- adventure mode of DF akin to exploration of skyrim and the like?
+- histories that both exist separately as their own units, or can be explored first person by the player
+	- ie legends mode of DF/adventure mode, wikis of RPG/playing and discovering in the RPG
