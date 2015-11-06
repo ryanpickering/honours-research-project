@@ -1,6 +1,6 @@
 ## Weekly Updates
 
-Here is where I will be recording some short weekly blogposts concerning my work and progress thus far on my thesis. Updates will come either Mondays or Tuesdays following my meetings with Dr. Graham, if applicable. Later on in the year frequency of posts may change - I'll update this page when that happens!
+Here is where I will be recording some short weekly blogposts concerning my work and progress thus far on my thesis. As of right now, regular meetings with Dr. Graham are hard to anticipate: updates will be announced as they come on Twitter, while my notes will hopefully be updated once a week and will carry the gist, albeit roughly, of posts. Stay tuned!
 
 ---------
 
