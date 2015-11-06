@@ -1,5 +1,5 @@
-### "Historical" Games of the 1990s and their Implications on Historical Consciousness and Thinking
-##### October 27, 2015
+## "Historical" Games of the 1990s and their Implications on Historical Consciousness and Thinking
+#### October 27, 2015
 
 It's been quite awhile since I've posted an update on here. I misjudged how other school responsibilities would play out while doing this thesis and so hadn't scheduled enough time for myself to write updates and do proper research and writing on the topics I want to explore. But, as it's now reading week, no more! Time to catch up and get some material out for the world to read on my conceptions of historical consciousness through videogames. 
 
