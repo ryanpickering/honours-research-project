@@ -1,0 +1,33 @@
+just finished reading "Theoretical Princijdes and Practical Problems of Respect des fonds in Archival Science" by MICHEL DUCHEIN, considering connections of concepts of fonds, archives, etc. to videogame history in ahistorical games
+
+VIDEOGAMES AS FONDS.
+- videogame as a collection of documents, experiences, sights, sounds, stories, etc. all from one organism: the game itself.
+- closed fonds. MMOs, games in alpha dev, procedurally generated as open fonds.
+- place lore documents, otherwise just fanciful and not entirely useful to anyone, in the context of a gameworld. this is what gives them importance just as fonds organization give documents meaning and significance
+- concept of fonds and respect des fonds perfect for videogames. skyrim as a fond, fallout as a fond, etc. 
+- assassin's creed as a fonds dealing with history. leads to particular interpretation of that history, whether real world or ahistorical world and allows a person to examine historical merit of the game
+- what facts are being presented, HOW is evidence being presented, where does the player access it, etc. how well does the game engage historical consciousness, historical thinking, etc. 
+- look at material in "objective" way as opposed to subjective structuring and experiencing of videogame world. flatten videogame world and analyze events, contingency, causality, meaning, morality, etc. 
+
+- for example, in DF: the legends mode as fonds already, with chronological organization from ONE world, not tempered by subjective representation. 
+- my own fortresses as fonds less simply: flatten and look at enscriptions, reports of battle, stockpiles of production, what is valued and remembered and represented in game. what emerges as history for the player and how that is represented in narrativization
+- how elements of this are represented in DFnarrativization, just as historians represent elements of archives and highlight/downplay specific elements in the production of history
+
+- historical videogames, treated as fonds, gives fascinating perspective on historical ability and reach, as well as allowing historians to analyze material presented 
+- deconstruct format of videogame and compress/reduce to documents, cutscenes, experiences, etc. classified as found in game
+- how to structure that classification? callback to section on internal integrity of a fonds from duchelin
+	- chronologically?
+	- missions, plotlines, etc. ?
+	- regionally?
+	- not structured?
+	
+- what gets included? in traditional RPG w/ ahistorical consciousness, documents obviously. plotlines? missions? cutscenes? dialogue? architecture of game world that may have clues towards history (ie graffiti)? 
+- this complicates the idea, but possibly resolvable. if the ENTIRE videogame is the fonds, then technically there should be no issue w/ including EVERYTHING. 
+- what is privileged/what is devalued? yikes, begins to convolute respect des fonds, because manipulation necessary.
+- how to flatten gameworld from perspective of PLAYER. it is easy to flatten from production side, just look at programming. that's too simple/complex (lol): too much there, not digestible in final format. 
+- the case is not "programming is the primary document, videogame is the produced and polished history." we want to look at the finished videogame **as a player would see it** in order to gauge digestibility of what they see?
+- with intense volume of what is seen in a traditional AAA game, difficult to flatten without giving significance and privilege to certain areas, thus corrupting respect des fonds. 
+- we are trying to consider gameworld, videogame as the fonds. if everything has to go in, everything has to go in. this is a resolvable issue, but i don't know how. 
+
+- concept is SOLID: flattening gameworld and maintaining intergrity of game for historical analysis and looking for tools that engender consciousness is a really fascinating concept. something to definitely use as technique of analyzing historical consciousness in games, though this technique not the whole project.
+- the process of doing so, outside of DF, is a little harder. in DF everything important represented textually, or map screenshots/diagrams easily included. in a AAA game, concept isnt as clean as that w/ intensive graphical representations and subjectivities of "body language of characters" for example. 

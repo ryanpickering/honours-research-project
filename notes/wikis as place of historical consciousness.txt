@@ -11,7 +11,7 @@ http://quod.lib.umich.edu/cgi/t/text/text-idx?c=dcbooks;cc=dcbooks;rgn=div1;view
 - origins of wiki as means for software development - appropriated from there (sort of how i/others have appropriated github's hosting style for open notetaking)
 - darwinian principles of editing and submitting things to wikis: the most proficient edits and most accurate knowledge will stick and falsities will be weeded out
 - just how accurate IS wikipedia though?
-- (i dont want to discuss wikipedia though, i want to discuss OTHER wikis.. time to move on from this section
+- (i dont want to discuss wikipedia though, i want to discuss OTHER wikis.. time to move on from this section)
 
 - wikis = open source: how does this transform to the classroom?
 - many different types of using wikis in pedagogical settings - as classroom resource/reference, as presentation, gateways to other materials, as simulation of experience (following paths, decisions points, etc)

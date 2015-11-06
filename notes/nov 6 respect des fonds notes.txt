@@ -1,0 +1,74 @@
+"Theoretical Princijdes and Practical Problems of Respect des fonds in Archival Science"
+by MICHEL DUCHEIN
+
+- respect des fonds: most important element of archival studies and archives
+- hard to define, put into practice, examine theoretical basises and elements
+- this piece to define the issues and look at respect des fonds by defining the problem
+
+- HISTORICAL DEFINITIONS
+- simplest definition: group (w/o mixing) archives (documents of all kinds) created by or coming from an administration, establishment, person or corporate body. this grouping is the FONDS of that admin., etc. 
+- we are accustomed to considering archives a natural byproduct of an agency, entity etc. 
+- early classification systems (pre 19th century) did not go along w/ this: broke up entities and grouped by topic, place etc.
+- french revolution: bringing together lots of different archives of diff. origins. Historical section arbitrary and mixed up, eventually impossible to tell origin as pieces were scattered in classification systems
+- this represents classification system of that period: early historians saw documents as interesting/valuable on their own w/o context necessary
+- natalis de waily 1841 with idea to group things based on fonds: organize docs by creator, not reference to creator
+- the only real way for ORDER in an archive
+- universally accepted shortly after and is still today. 
+
+theoretical justifications
+- documents valuable not for their intrinsic value but their context within a larger body. 
+- archives are by their nature all the docs a group collects organically by reason of function, activity, kept for reference. implies documents all relate
+- example of a map's value in its archive of a specific expedition, as opposed to just a collection of maps. loses a lot of value in the latter. 
+- documents take on historical meaning based on origins, where they are kept, who collected them, who created them, etc. 
+- only precise classification: all others are arbitrary and subject to subjective interpretation. 
+
+	- this is fascinating stuff: relevance to videogames is...
+	- lore of a videogame not as valuable when meshed with others. takes away closed world of the game. example: when lore of say fallout 2 mixed w/ fallout 3, based solely on subject matter, "author," etc., place in specific game history is lost. 
+	- not as severe as in real world, where 100yr old docs lose meaning: these always traceable back to origins
+	- in terms of DF... each created world as a fonds? each civilization, attempt at building fortress, etc., a file within the fonds? 
+	- DF procedurally generated worlds bring new experience to gameplay each time: important to recognize and group accordingly?
+	
+now an analysis of theoretical problems of fonds, proposed solutions, etc. examining this allows me to get deeper engagement with concept of fonds. 
+
+1. fonds in terms of hierarchies of organization
+- how to decide what is a fond and what is included within a fond: example, the offices of a ministry - are the offices their own fonds, or are they part of the fonds of the ministry? is the ministry part of the fonds that is the larger organization? are associate organizations a part of the larger organization or their own? 
+- infinitely difficult to decide
+- two positions to be adopted: maximalist or minimalist
+- maximalist: everything is part of the highest possible fonds, sicne everything is responsible to this.
+- minimalist: everything is reduced to the smallest possible organism that can produce material, since this is where all meaningful creation is done to fill the larger bodies. 
+- a very hard issue to solve: no organization is really without the need technically for outside engagement and outside interaction with other organizations, things above it, etc. 
+- united states chose to define size on manageable, facilitate recording, etc. vague as all holy hell, but realistically only answer?
+- if we go TOO small (minimalist), take any possible meaning away from fonds organization. yes, organizations can be distinct and have distinct material, but do interact with various other organizations in the same area. 
+- the piece gives specific definition to how to organize... needs judicial existence/name, defined powers, position in power hierarchy must be defined, responsible definable leader, internal organization must be known.
+- still leaves many issues, ie. hierarchical fonds subordinate to other, too many, too few, etc. etc. etc.
+
+- relevance to videogames: videogame as a fond, or other places of documents as their own? that may become arbitrary but i'm not sure
+
+2. change of jurisdiction
+- not relevant to my understanding of fonds. some suggest in times where jurisdiction moves around and gets confusing, to break fonds. author represents this as an unmentionable sin
+
+3. provenance
+- i didn't get what provenance meant... from wikipedia's article on respect des fonds: "The principle of provenance dictates that archival records are grouped by the organization or individual"
+- issues emerge when documents are transferred between groups, fonds mixed, etc.
+- should a fonds be organized in terms of CREATOR, who entered the documents into an archive in the first place, etc. 
+- their solution: if fonds retains originality, in terms of creator. if fonds been shaped irrevocably by new organization, in terms of who entered the documents. 
+
+4. open fonds and closed fonds
+- open fonds where records are still being added by an existing organism: closed when that organism is gone, ie. middle ages archives. 
+- closed only point where a fonds is completed.
+- issue of transferring of documents again, renaming or restructuring of organizations, etc. 
+- treatment of open fonds as compared to closed ones brings up issues of how we treat archival studies
+
+5. does respect des fonds mean respect for internal organization???
+- original concept of respect des fonds says nothing about internal organization - just on non-mixing of fonds and keeping documents of one organism together
+- internal integrity has become big part of respect des fonds
+- what about reconstructions of internal structure? not 100% possible so a no go
+- simple structures used by simple organizations are functional for archivists, therefore good
+- in dealing w complex organizations, w/ departments, branches sub branches etc., these categories rarely stable over a period of time due to transfer of responsibilities, dissolve and creation of branches etc. can arrange chronologically or arrange w/o internal division
+- why do we need to respect internal organization? do we need to? it's functional and pragmatic vs historic and long-term based...
+- some fonds' internal methods are contrary to archival methods
+- lot of talk not really relevant to my understanding of fonds... will come back to later if need be ***
+
+finally - talks about finding aids for fonds and archives.
+this is irrelevant now with advent of computerization and search engine ability, etc. 
+
