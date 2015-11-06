@@ -1,6 +1,6 @@
 ## Weekly Updates
 
-Here is where I will be recording some short weekly blogposts concerning my work and progress thus far on my thesis. As of right now, regular meetings with Dr. Graham are hard to anticipate: updates will be announced as they come on Twitter, while my notes will hopefully be updated once a week and will carry the gist, albeit roughly, of posts. Stay tuned!
+Here is where I will be recording some short informal weekly blogposts concerning my work and progress thus far on my thesis. As of right now, regular meetings with Dr. Graham are hard to anticipate: updates will be announced as they come on Twitter, while my notes will hopefully be updated once a week and will carry the gist, albeit roughly, of posts. Stay tuned!
 
 ---------
 
@@ -10,4 +10,4 @@ Here is where I will be recording some short weekly blogposts concerning my work
 
 [3rd Post - "Historical" Games of the 1990s and their Implications on Historical Consciousness and Thinking](https://github.com/ryanpickering/honours-research-project/blob/master/updates/post3-oct-26.md)
 
-4th Post - stay tuned...
+[4th Post - The Videogame as Fonds: A Rough Idea on Analyzing Gameworlds for Historical Material Consciousness through Archival Theory](https://github.com/ryanpickering/honours-research-project/blob/master/updates/post4-nov-6.md)
