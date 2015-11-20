@@ -33,10 +33,12 @@ Ta-da! Now, instead of a bunch of notes of material that didn't necessarily refe
 
 1. Emergent cultures/Complexity theory: Dr. Graham and I have talked about this at different times in this project, but to this point I haven't done any substantial research or thought on the theories. These two seem like they'll be pretty essential to ideas of historical consciousness emerging: ideas of new cultures and ideas emerging from game processes is going to be a fascinating topic to explore. 
 
-2. Gameworld/Archaeogaming: Especially after looking at ideas of
+2. Gameworld: Especially after looking at ideas of a videgame and the gameworld in particular being a fonds or an archive in itself, looking specifically at ideas about the game space and gameworld are going to be important. Relating both 
 
-3. Community: 
+3. Archaeogaming: 
 
-4. Game experience as inclusive of lore: 
+4. Community: 
 
-5. 
+5. Game experience as inclusive of lore: 
+
+ 
