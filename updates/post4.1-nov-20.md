@@ -35,7 +35,7 @@ Ta-da! Now, instead of a bunch of notes of material that didn't necessarily refe
 
 2. Gameworld: Especially after looking at ideas of a videgame and the gameworld in particular being a fonds or an archive in itself, looking specifically at ideas about the game space and gameworld are going to be important. Relating both to this and ideas of emergent cultures are two works Dr. Graham had suggested to me early on in September, that I also (yikes) haven't taken a substantial look at. They are Edward Castronova's Synthetic Worlds and McKenzie Wark's Gamer Theory. I have the former, but haven't looked far into it: I'll hopefully finish reading it over my break and also find out if Gamer Theory is a good source to look at for this project. 
 
-3. Archaeogaming: Archaeogaming is the name for, to overgeneralize, doing archaeology in videogame worlds. Archaegamers (I think that's the appropriate term) look at video game worlds, both for single- and multi-player games, and look at what we can learn about 
+3. Archaeogaming: Archaeogaming is the name for, to overgeneralize, doing archaeology in videogame worlds. Archaegamers (I think that's the appropriate term) look at video game worlds, both for single- and multi-player games, and look at what we can learn about cultures within the 
 
 4. Community: 
 
