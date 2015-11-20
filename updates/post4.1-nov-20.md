@@ -1,1 +1,1 @@
-Mini-Post: Mindmap Exercise, and Where 
+Mini-Post: Mindmap Exercise, and Where Are We Headed?
