@@ -37,8 +37,8 @@ Ta-da! Now, instead of a bunch of notes of material that didn't necessarily refe
 
 3. Archaeogaming: Archaeogaming is the name for, to overgeneralize, doing archaeology in videogame worlds. Archaegamers (I think that's the appropriate term) look at video game worlds, both for single- and multi-player games, and look at what we can learn about cultures within the gameworld. (You could represent this as the synthesis of the previous two terms perhaps?) I know Andrew Reinhard is someone doing really innovative work in this field, and I'm looking forward to sending him an email or something for some suggestions of sources and maybe some input, if he's not crazy busy. 
 
-4. Community: This is an obvious one, and one I am in the process of looking at. This is essential for processes of narrativization which are done in community conexts, and my next blog post should be heavily reliant on ideas
+4. Community: This is an obvious one, and one I am in the process of looking at. This is essential for processes of narrativization which are done in community contexts, and my next blog post should be heavily reliant on ideas of community. Specifically, it will be examining the context of how Dwarf Fortress players are interacting in their community in regards to narrativization, alongside actual examples of this narrativization (ie. Boatmurdered!). 
 
-5. Game experience as inclusive of lore: Ideas of "lore" need to be expanded when considering DF narrativization, which is based on game experience and in a way becomes the lore for specific gamess, worlds, etc.  in lieu 
+5. Game experience as inclusive of lore: Ideas of "lore" need to be expanded when considering DF narrativization, which is based on game experience and in a way becomes the lore for specific gamess, worlds, etc. in lieu of game-controlled/created narrative. This can probably be extrapolated for AAA games as well: game-world, character interaction, archaeogaming ideas of environment, and the like. 
 
  
