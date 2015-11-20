@@ -31,9 +31,9 @@ That in itself is not the most useful picture to understand where I'm heading, b
 
 Ta-da! Now, instead of a bunch of notes of material that didn't necessarily reference itself or seem related at all, I have a dense list of ideas that flow into and out of each other in a way that makes sense to me and gives some shape to my project. Before this exercise I was worried about the amount of material I had to work with, but now I'm feeling a lot more confident on a) what material I have at this point, and b) where this project is headed. Some important terms and ideas sort of emerged from this exercise, by coming up as important pieces of the project that I previously hadn't given much thought to, or just being the natural result of considering a lot of these ideas together.They are:
 
-1. Emergent cultures/Complexity theory: Dr. Graham and I have talked about this at different times in this project, but to this point I haven't done any substantial research or thought on the theories. These two seem like they'll be 
+1. Emergent cultures/Complexity theory: Dr. Graham and I have talked about this at different times in this project, but to this point I haven't done any substantial research or thought on the theories. These two seem like they'll be pretty essential to ideas of historical consciousness emerging: ideas of new cultures and ideas emerging from game processes is going to be a fascinating topic to explore. 
 
-2. Gameworld/Archaeogaming: 
+2. Gameworld/Archaeogaming: Especially after looking at ideas of
 
 3. Community: 
 
