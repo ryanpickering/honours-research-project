@@ -49,5 +49,9 @@ Alongside all of that, there are some general ideas that need to be fleshed out 
 * Archival theory
 * What to do with AAA games
 
+That's about all I'm going to talk about in this post, though. There are some great ideas here and some avenues for exploring new ideas that will really enhance the project as a whole. Hopefully there will be another, more focused blog post relating to narrativization while keeping a lot of these ideas in mind throughout. 
+
+As always, feel free to follow/contact me on Twitter at [@rapickering](https://twitter.com/rapickering), or open up a Github issue on sections in any of my blog posts if you have any questions, comments, etc. The point of this blog is not just to organize my thoughts and keep me moving on this project: it's to facilitate a bit of discussion with the larger digital humanities community that can hopefully move me closer towards a powerful project come March. Thank you for reading, and please keep checking back at my Twitter or this blog for more updates throughout the next couple weeks!
+
 
  
