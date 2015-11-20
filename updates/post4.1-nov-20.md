@@ -41,7 +41,6 @@ Ta-da! Now, instead of a bunch of notes of material that didn't necessarily refe
 
 5. Game experience as inclusive of lore: Ideas of "lore" need to be expanded when considering DF narrativization, which is based on game experience and in a way becomes the lore for specific gamess, worlds, etc. in lieu of game-controlled/created narrative. This can probably be extrapolated for AAA games as well: game-world, character interaction, archaeogaming ideas of environment, and the like. 
 
-
 Alongside all of that, there are some general ideas that need to be fleshed out further within this project. Without expanding on them in depth, they are:
 
 * Bartle test
@@ -49,6 +48,7 @@ Alongside all of that, there are some general ideas that need to be fleshed out 
 * More narrativization
 * Archival theory
 * What to do with AAA games
+
 
 That's about all I'm going to talk about in this post, though. There are some great ideas here and some avenues for exploring new ideas that will really enhance the project as a whole. Hopefully there will be another, more focused blog post relating to narrativization while keeping a lot of these ideas in mind throughout. 
 
