@@ -39,6 +39,6 @@ Ta-da! Now, instead of a bunch of notes of material that didn't necessarily refe
 
 4. Community: This is an obvious one, and one I am in the process of looking at. This is essential for processes of narrativization which are done in community conexts, and my next blog post should be heavily reliant on ideas
 
-5. Game experience as inclusive of lore: 
+5. Game experience as inclusive of lore: Ideas of "lore" need to be expanded when considering DF narrativization, which is based on game experience and in a way becomes the lore for specific gamess, worlds, etc.  in lieu 
 
  
