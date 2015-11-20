@@ -25,3 +25,4 @@ That in itself is not the most useful picture to understand where I'm heading, b
 			- wikis as place for this as well. 
 - Piecing together stories from experience: manipulation of game experience/material as organizing/drawing from the FONDS
 
+While this list isn't perfect certainly, it does give some good material for me to work with and for someone to see where my thought process is headed. Before this exercise I was worried about the amount of material I had to work with, but now I'm feeling a lot more confident on a) what material I have at this point, and b) where this project is headed. 
