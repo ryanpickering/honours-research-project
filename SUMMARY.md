@@ -6,4 +6,5 @@
 * ["Historical" Games of the 1990s](updates/post3-oct-27.md)
 * [The Videogame as Fonds](updates/post4-nov-6.md)
 * [Mini-post: Mindmap Exercise / Where Are We Headed?](updates/post4.1-nov-20.md)
+* [An Intro to DF Narrativization](updates/post5-dec-28.md)
 * [License](license.md)
