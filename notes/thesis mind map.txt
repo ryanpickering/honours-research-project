@@ -1,0 +1,84 @@
+Bartle Test
+Lore/Story
+Dwarf Fortress
+Gameworld
+AAA games
+Proc' gen' content
+algorithms
+MMOs
+Forums
+"Real" history games
+Wikis
+Plot
+Narrativization
+Emergent cultures
+Historical Consciousness
+Archaeogaming
+"Simulation"
+Archive Theory
+Fonds/Respect des fonds
+Primary game docs
+Historical thinking
+Community
+Complexity
+Types of history (annals, narrative, etc.)
+
+Group these by... 
+GAME
+- MMOs
+- DF
+- AAA games
+- "Simulation"
+- "Real" history games
+TOOLS/PROCESSES
+- bartle test
+- archive theory
+- fonds
+- complexity
+- emergent cultures
+- proc. gen.
+	- algorithms
+- historical thinking
+- archaeogaming
+- types of history
+	- narrativization
+WHERE?
+- COMMUNITY!
+- wiki
+- forums
+-------
+- gameworld?
+- plot
+- primary documents AND lore/story (draw from each other)
+WHAT?
+- historical consciousness
+- types of history
+- narrativization
+- filling in the blanks
+
+Narrativization comes from... 
+- WIKIS
+- FORUMS
+- PLOT
+- TYPES OF HISTORY
+- EMERGENT CULTURE
+
+Historical consciousness emerges from the narrativization of lore/game experience as a way of filling in the blanks
+- comes out of emergent cultures in game and COMMUNITY (forums)
+- historical thinking is needed to narrativize -> leads to historical consciousness
+- complexity theory comes into this, allows for it
+- situated/actuated in GAMEWORLD: drawing back to emergent culture and archival theory
+	- narrativization/narrative as reordering archival pieces of gameplay
+	- archaeogaming and the material culture of games
+	- narrative structure as histoy. 
+- lore is tied up in game experience, being optional. A connecting piece between AAA games and DF.
+	- levels of engagement with material; Bartle test. 
+	- filling in the blanks
+		- DF: fill in blanks of objective text/ASCII gameplay to construct compelling story (Proc. gen.)
+		- AAA: understand *obscured* narratives through piecing together of material; fill in blanks of complex world
+			- wikis as place for this as well. 
+- Piecing together stories from experience: manipulation of game experience/material as organizing/drawing from the FONDS
+
+
+
+
