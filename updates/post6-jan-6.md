@@ -1,5 +1,5 @@
 ## Annal History in Dwarf Fortress's Legends Mode, Translation from Game to Story, and Implications for Historical Thinking Concepts
-#### January 6, 2016
+#### Wednesday January 6
 
 This blog post intends on continuing a basic analysis of Boluk and LeMieux's piece on "Dwarven Epitaphs" as I discussed in my last post. However, the focus will be taken to one of the topics I discussed near the end for future considerations, namely ideas of narrative as translation from game to story. Boluk and LeMieux discuss this at length, but I'm looking to expand some of those ideas within the context of Peter Seixas' ideas of historical consciousness along with my ideas of the videogame as fonds. These ideas of engendering historical consciousness through primary document engagement fit very well with Boluk and LeMieux's consideration of DF history as akin to White's ideas of annals, and similarly fit with fonds theory. While still needing to be fleshed out a bit, these concepts work very well together to understand how DF specifically engenders historical consciousness through the way it structures its historical information. 
 
