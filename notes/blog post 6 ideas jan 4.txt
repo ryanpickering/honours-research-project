@@ -1,7 +1,33 @@
 TRANSLATION FROM GAME TO STORY
 
 framework atm: 
+
 - boluk's ideas of translation of non-human operators to human stories and processes of that
-- how that engages historical thinking, historical consciousness
-- same wineburg, peter seixas: use to highlight what those are and how narrativization engages
-- examples elsewhere: trevor owens, emily johnson
+	- explanation of narrative bookends: from story to processes to story
+	- the creators examine short stories for "rules" of fantasy genre and try to program those concepts into the game, leading to new events emerging
+	- narrativization: complex things emerge from these installed algorithms etc., emergent culture that becomes narrativized
+	- translate unpredictable effects of gameplay
+
+- how that engages historical thinking, historical consciousness...
+ 	- "In writing their collaborative history of Boatmurdered, the succession of players inevitably anthropomorphize computational processes by assigning psychological behavior to the dwarves, describing them as irrationally “bound and determined to march to their deaths”" 137
+	- boluk's reference to historical consciousness/thinking re: why are things important to record?
+
+- hayden white and the annal - in relation to DF
+	- legends mode in DF: 143, 144: DF indexes computer processes, gives them names still limited by minimal text, and their complexity obscured by simplicity of output
+	- hayden white's ideas of annals: same concept, listing processes of history without human causality and contingency explained. deprvilieges that. comparison between annal from 700s to DF legends mode... strikingly similar
+	- 147 "For White, the form of the annal rejects Hegelian grand narratives of historical progress and presents a world indifferent to human struggle. Both the medieval annal and the chronologies of Dwarf Fortress’s Legends mode follow a narrative model that is nonteleological and that deprivileges the place of the human within historical time."
+	- theistic cosmology vs flattened ontology. readers or players assign meaning to events themselves through metaphysical/supernatural means: deus ex machina ideas. 148 149
+
+- ...sam wineburg, peter seixas: use to highlight what those are and how narrativization engages
+1.	Establish historical significance - players must do this on their own in DF. annal form in legends mode, what is available, etc. forces players to value certain things over others. especially in fortresses - anthropomorphization of dwarves, processes, etc.
+2.	Use primary source evidence - since player's worlds are their own creation, they cannot rely on others interpretations of it - they must use the dificult to navigate gui of DF themselves and piece together fragments of gameplay and world creation to narrativize their world. 
+3.	Identify continuity and change - the processes of world generation, game mechanics, etc. are all obscured from view and so are not obvious. a player engaging with DF mediations of translation organizes annal/chronicle history in a way that engages with continuity and change in respective areas of the world, civilizations, settlements, etc. example: tholtig cryptbrain, elven king. 
+4.	Analyze cause and consequence - same idea as above. recognizing context of events within the gameworld and placing them in a framework of causality and contingency promotes doing so in the real world. 
+5.	Take historical perspectives - each narrative has a viewpoint, a certain understanding of each world and civ. and settlement, etc. combine subjective player's game experience and objective intricacies and complexities of world into narrative voice. 
+6.	Understand the ethical dimension of historical interpretations. - hmmm... narrativize, anthropomorphizing dwarf fortress and giving ethical considerations. seen in boatmurdered, oilfurnace, etc. 
+
+- tie all of this with fonds theory:
+- these principles incredibly related to fonds ideas spoken about in earlier post
+- engaging with the primary material of the gameworld on its own to develop historical consciousness
+- comparison is strong between the annals of DF and the fonds theory of videogames: gameworld is flattened and without the subjectivity of a game wiki, game narrativization, etc. 
+

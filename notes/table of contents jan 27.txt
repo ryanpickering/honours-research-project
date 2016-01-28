@@ -1,0 +1,107 @@
+okay, so after finagling all week, finally have material for table of contents. from my sheet of paper...
+
+Intro - 7, 8, 14, 15, 16, 48
+DF Intro: Elements of gameplay, etc. - 42, 59, 60, 61
+DF Narrativization intro - 42, 59, 60, 61, 62
+Historical Thinking Concepts in "Edu-games" (a no-go) - 24-35
+Historical Thinking Concepts in DF Narrativization - 24, 27
+- hist. significance - 76, 40, 50, 67, 73a, 73b
+- primary sources - 77, 39, 41, 63, 67, 73b, 74
+- continuity and change - 79, 68, 71
+- cause and consequence - 79, 68, 71
+- hist perspective - 80, 40, 63, 72, 73a
+- ethical dimension - 81, 40, 63, 72, 73a
+implications for other games / history - nothing to go on atm
+
+this is the first draft. 
+
+what this means - number at end are paragraph numbers from what i have written. there is more than a fair bit of stuff right now that can work within the larger thesis. nothing to go for that last paragraph, though... 
+- does that last section work as a conclusion?
+
+- is there too much intro? maybe...
+- it already feels very clunky, and nothing has been even done with it. ugh
+
+ideas for round 2: 
+- combine 2 and 3: narrativization included within initial discussion of DF fleshes that section out, at the end of the chapter we have both an understanding of DF and a jumping off point into hist thinking
+- find two games/stories/narrative etc from forums (hall of fame) to fit under each hist. thinking concepts... kills two birds w/ one stone
+- fit edu-games material into general discussion on each hist. thinking tool... where it fails (other edu-games) vs. where it succeeds (DF)
+	- allows for easy reference and comparison that is specific. 
+- in each thinking concept, talk about both GAME and NARRATIVE - speak to each other. for example, new features in DF informing future narrativization. 
+
+ROUND 2-----
+
+- Introduction 7, 8, 14, 15, 16, 48
+- Dwarf Fortress - an intro. 42, 59, 60, 61, 62
+- Historical Thinking Concepts - an intro to why this matters.
+- The Concepts Explored
+	- Historical Significance
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+	- Primary Sources
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+	- Continuity and Change
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+	- Cause and Consequence 
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+	- Historical Perspective
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+	- Ethical Dimension
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+- Conclusion: Implications for Other Games, Other History. 
+
+after engaging with different stories, looking what is available to work with in all, idea of talking about individual stories in each section doesn't work. INSTEAD: talk about the explanation, then how it hasn't worked in videogames, then how it HAS worked in DF. fixed above. 
+
+where to fit conversation about community in??
+
+------
+
+so, time to go back through blogposts and re-add paragraph numbers to see where we're at
+
+- Introduction 7, 8, 14, 15, 16, 48
+- Dwarf Fortress - an intro. 42, 59, 60, 61, 62, 68
+- Historical Thinking Concepts - an intro to why this matters. 27 (excerpt from notes)
+- The Concepts Explored
+	- Historical Significance - 75, 74
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+	- Primary Sources - 73a, 73b, 74, 77
+		- Explanation
+		- the videogame as fonds - 37-40
+		- Where it doesn't work
+		- Where it does work
+	- Continuity and Change - 74, 78, 50
+		- Explanation
+		- Where it doesn't work
+		- Where it does work (legends mode)
+	- Cause and Consequence - 60, 61, 79, 50
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+	- Historical Perspective - 80
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+	- Ethical Dimension - 73a, 81
+		- Explanation
+		- Where it doesn't work
+		- Where it does work
+- Implications for Other Games, Other History. 
+
+notes...
+- in blog post about 90s games, i didn't really do any discussion of actual aspects OF those games that is usable for those sections - more work is need there
+- already, looking into the ideas i want to bring out, the basic explanation > where it doesnt work > where it doesnt feels tough to work with. 
+- scratch that - they make sense right now, but ultimately are placeholders for more specific names when things are more put together. 
+
+ 
