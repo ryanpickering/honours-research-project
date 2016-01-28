@@ -1,0 +1,58 @@
+Beyond the "Historical” Simulation: Using Theories of History to Inform Scholarly Game Design
+
+- article wants to move past what good history thru gaming does. 
+- present a case for historical games presenting proper historical narratives. 
+- continues looking at ideas of constructionism but goes farther
+
+- history games either do not use computers well or fail to do good historical scholarship
+- gamic mode: computer mediation + procedural rhetoric, contains all needed for solid historical scholarship
+
+- digital humanties has not focused upon translation of scholarly practice of history to games. 
+- critiques towards a theory of good history throguh gaming - summarizes popular approaches but fails to give a real theory of "good" history. they do not suggest how to form an argument in a gamic space. focus on games, tech, etc. and possibility for engagement. 
+- this article as trying to fill that gap
+
+- popularizing history good, but it changes methodology for the worse in some ways... primacy given to tech takes away from need for rigorous look into forming reasonably justified truths. 
+- not shutting down commercial history games for edu use... ***look into stephanie fisher's "playing with world war II: a small-scale study of learning in video games" 2011***
+- now move into meat of article: 4 sections ahead
+
+procedural rhetoric and gamic mode
+- gamic mode does all that a traditional historical piece does (citation, no appeal to rhetoric, narrative structure, etc.) but obviously differently. 
+- ian bogost's idea of procedural rhetoric - use of computational processes to convey an idea - rules tha a computer uses to generate argument. mirrors traditional scholarship in 2 ways...
+- argument is NOT the past, but a representation of it showing evidential/interpretive relationships leading to conclusions
+- arguments are facts converted to evidence and arranged according to a set of rules. 
+- gamic mode does not attempt to reconstruct or simulate the past or specific argument... the game is the argument!!!
+- expresses AND PERSUADES to gamers a point of view's validity. 
+
+- how to frame gamic history with epistemologies of history as they stand.
+- alun munslow's 3 broad categories from his books - CONSTRUCTION, DECONSTRUCTION, RECONSTRUCTION
+- how these categories work for gamic mode of history vs. how "history" games ie civilization arent gamic mode history. 
+- CONSTRUCTIONIST: empirical method and analysis to create true claims and theories about the past. history is NOT the past but interpretation of evidence and making conclusions about actions of historical agents. evidence =/= fact. this is where the authors place gamic history
+- DECONSTRUCTIONIST: bases understanding of the past on personal experience of evidence/arguments - past is unknowable or knowable in multiple ways. this would leave things open for games to express meaning, but does not fit well with majority of existing material. 
+- RECONSTRUCTIONIST: descriptively/objectively recreate past as it actually was through sources. tainted by subjectivity of the world. methods of the popular historian, simulations, tv, etc. claim authenticity through volum of data. history IS the past vs constructionist views. 
+- gamic mode of history creates knowledge on past. asks questions that historians do, etc. 
+- NARRATIVE as common to all historical scholarship, gamic mode being no different. our understanding of action, the world, etc. 
+	- THIS IS IMPORTANT!!! draw into hayden white + legends mode, moving into player narrative. this is at bottom of page 8
+
+- shortcomings of existing historical games, digital stuff, etc. showing PARTS of process, not entirety of scholarly argument. 
+- examine truth claims of commercial games, counter factuals, and simulations
+- some games (ie military games) claim to be history based on facts - as we said before, facts arent for history. they become EVIDENCE based on explanatory power of an argument. realism of games, use of historical facts, sources, etc. just hides that they are not real history w/ argument. 
+- counterfactuals/simulations: choice important in game, these don't cut it - history is justifiable interpretation of past events, not imposition of rules or models over past events. 
+- simulations are models of cause and effect that are a "lab" of historical conclusions, but doesn't really work as HISTORY: can't extrapolate evidence. 
+	- my own points on what this implies for DF: may not entail as historical scholarship but engenders historical thinking.
+	- examine juuls points for difference between historical game and gamic history: . Games in general are characterized by fixed rules, variable outcomes, valorization of that outcome, player attachment to the outcome, player effort, and negotiable consequences (Juul, 2005, 
+	- hm....
+
+
+CREATION AND COMMUNICATION OF GAMIC HISTORY
+- this section details the authors' game, Shadows of Utopia: Exploring the Thinking of Robert Owen. 
+- conveys an argument about robert owens ideas of utopia
+- developer's argument about progress of owen's thinking - pushed on by environment changing puzzes, etc. 
+- avoids rhetorical language, persuasive terminology by using procedural rhetoric effectively: links sources and related interpretations to game code, GUI, aesthetic choices. 
+
+-----------
+
+this article is pretty fascinating... for my own purposes it makes some good points about what histories require, in the context of videogames. 
+
+procedural rhetoric applied here well, as well as talking about narrative in a way i can draw into my discussion of DF narrativization in some way. 
+
+"dichotomy between narrative and simulation, with DF narrative and DF gameplay... " 

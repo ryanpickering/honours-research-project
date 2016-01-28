@@ -1,2 +1,66 @@
 - where go good gaming and good history overlap? this essay examines that. 
-- 
+- civilization IV: players make decisions and try to guide cultures from stone age to space age (technological determinism)
+- videogame history - niall ferguson says an attempt to revitalize history w/ tech that kids pioneered
+- historians should use them for their reach. also b/c players are LEARNING
+- sid meiers, creator, wanted to create history game where learning process was a significant part of the fun
+- games designed by academics usually boring, drill-and-response type. find synergy between padagogy and engagement
+- GOOD HISTORY AND GOOD GAMING
+- idea of using microhistory methodologies for videogame history
+
+- games as naturally powerful learning tools in nature
+- games as speaking to youth culture easily
+- more importantly, CONSTRUCTIONISM (seymour papert) and how knowledge is constructed in the mind through experience, connextions, etc.
+- this is fleshed out w/ games by james paul gee - good learning is situated in the world, social practices, making connections with already learned things... video games excellent learning methods b/c of experiencing world in new way, problem solving, engagement with others, game environment as a design space. 
+- they problematize knowledge too - games need hypothesizing, testing, revision. "continuous cycle of cognitive disequilibrium and resolution"
+
+- historians typically look down on "popular" non-text history ie reenactments, GAMES
+- "trivialize the past" 
+- however, samuel says the fixedness of written word appeals to old school historians, but the vitality of heritage makes it perfect for engageable things w/ public. 
+- history v heritage: explore and explain opaque past v clarify past for present purposes
+- discussion of second life, the game. 3d visualization of historical material for public historical engagement
+
+- GIS as historical scholarship tool: cool but not useful atm
+
+- MICROHISTORIES: method that works well with kind of videoame history simulation stuff we are talking about
+- increase magnification and focus on small, revealing details or patterns invisible at macro level
+- disrupts long narratives of history
+- foregrounds the researcher, 1st person experience, begins dialogue. fits w/ computer games (especially DF?)
+- role playing game possibly 
+
+- FOCUSING ON THE STUDENT: playing games allows for forming own historical narrative thru historical thinking ideas (wheeeeeee)
+- keith jenkins - pedagogy where students learning comes from their writing of history
+- examples of students enjoying interrogating historical record
+- adopt persona of researcher, historian etc. 
+- do games work? civ III with high school students show it fosters engagement and critical thinking
+
+- how do we see the effectiveness of history games? 1st order knowledge (facts, etc.) vs 2nd order knowledge (understanding of the skills of historical practice)
+- PETER SEIXAS!
+- kee and large develop test for checking historical thinknig skills in game - not useful for me though
+- conclusion, copied and pasted...
+- "What can games do? Not everything, of course – these too have limitations. But they can build on the same pleasures of the media of ‘heritage’ by providing player-learners the opportunities to create their own narratives. Coupled with other new digital technologies, such as GIS , they can incorporate historical data, providing new avenues for representing and exploring history. They can also enable player-learners to focus on ‘micro-histories’ that are episodic both in their game play and their content. In the future, historians will continue to write historical narratives, but they will also craft potential narratives from which learners create their own experiences. Indeed, good gaming may also incorporate the learner in the crafting of the game. This will not be a replacement for reading; instead, it will offer a way to
+bring students into further discussion and research. After all, why stop at reading about ancient barbarian invasions when you can also repulse them?"
+
+--------
+
+HOW IS THIS NOTE USEFUL?'
+- discussion of microhistory
+- reference to second and first order knowledge, + seixas
+- focusing on the student idea
+- idea of games problematizing knowledge constantly - pull this into DF discussion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,76 @@
+from site forums, written by creator... http://www.bay12forums.com/smf/index.php?topic=154197.0
+things that look useful will be given dashes at front, two for super important, one for a bit/maybe important
+
+New stuff
+-- (*) Ability to designate taverns, temples and libraries in the fortress
+-- (*) Taverns and libraries also exist in adventure mode and world generation
+   (*) Tavern keepers can serve drinks in both modes, goblets can be used by dwarves to drink (in taverns or otherwise)
+-  (*) Performances include stories, poetry, music and dance (you can view activity descriptions from the unit/job list)
+-  (*) Art forms are randomly generated for each civilization
+   (*) Instruments are now all generated, instruments can be used in both modes
+   (*) Most instruments are constructed from multiple pieces using different materials
+-  (*) Personalities and values lead to needs which can be met by various actions in both modes
+-  (*) The fort has visitors, residency petitions and eventual citizenship, including non-dwarves
+   (*) Tavern visitors include mercenaries, monster slayers, bandits, diplomats and performers
+   (*) Can set details for clothing/armor jobs to make them for other races that can equip items
+   (*) Monster slayers can petition your fortress to go down and fight monsters once you discover the underground
+   (*) Performance troupes are active in world generation and into play, visiting the fort, can be formed in adventure mode
+-  (*) New knowledge system divided into nine branches (though it has very few practical effects so far)
+-- (*) Fortress scholars can advance knowledge, form master-apprentice relationships and write down their findings
+-- (*) Fortress scribes can copy works in your library
+-- (*) Scholars can visit your fortress libraries, bringing knowledge from around the world
+   (*) Devoted historical figures can visit your fortress temples
+   (*) Three forms of writing material: papyrus sheets, paper sheets and parchment sheets
+   (*) Papyrus sheets are made directly from the plant at the farmer's workshop
+   (*) Paper is made from pressed slurries (start at the quern/mill, then go to a screw press)
+   (*) Parchment is made from hide and milk of lime at the tanner's (bake quicklime at a kiln, then make milk of lime at an ashery)
+   (*) Sheets are used to make quires or with rollers to make scrolls -- these are then used for writing
+   (*) Quires can be bound into codices with bindings after they contain writing
+ - (*) Dwarves read books in the library (they don't need to be scholars)
+-- (*) Values can be passed in writing (both modes) and through adventure mode arguments (uses some conversation skills)
+   (*) Animal people are playable as adventurers, arrive as fort visitors and sometimes live in towns in (playable) populations
+   (*) Children play with toys now, and they can also play make believe, in both modes
+   (*) Personality can be customized/randomized in adventure mode, appearance can be randomized as well
+   (*) Temples can be defiled in both modes, dwarf temples can be assigned to particular gods
+   (*) Adventurer can rent rooms in inns
+ - (*) Adventurers can compose new poems, music and dances
+-- (*) Adventurers can write material down on empty quires or scrolls
+   (*) Alcohol causes inebriation, erratic behavior, unconsciousness, death
+   (*) Festivals occur in world generation, though we haven't gotten them out of there yet
+   (*) Dwarves will wear trinkets again
+   
+SO... the important ones are officially pasted below with ruminations
+-- (*) Ability to designate taverns, temples and libraries in the fortress
+	- libraries!!!!!!!! no explanation needed why this is so dang cool. 
+-- (*) Taverns and libraries also exist in adventure mode and world generation
+	- books being generated with history at beginning of history... if you wanted to explore legends mode w/o revealing all history then books would be a resource. open the game up to even more discovery and historical thinking through that process of uncovering! 
+-  (*) Performances include stories, poetry, music and dance (you can view activity descriptions from the unit/job list)
+-  (*) Art forms are randomly generated for each civilization
+	- can this translate to history being generated textually as well? it has, basically i guess in my experience. 
+-  (*) Personalities and values lead to needs which can be met by various actions in both modes
+	- fascinating but no need for reflection on this atm
+-  (*) The fort has visitors, residency petitions and eventual citizenship, including non-dwarves
+	- very cool feature - more engagement with the outside world in fortress mode that can reflect changes in world, incorporate into new game experience. 
+-  (*) New knowledge system divided into nine branches (though it has very few practical effects so far)
+	- when this has practical effects, very interesting when it is spread around world. make generated world more cohesive with spread knowledge, affect your world via writing, etc. 
+-- (*) Fortress scholars can advance knowledge, form master-apprentice relationships and write down their findings
+	- scholarship being done and sent out into the world, spreading info!!!
+	- development of history of world in-game before narrativization even begins. 
+-- (*) Fortress scribes can copy works in your library
+	- the spreading of history from the macro, larger world into your specific fortress/microworld. 
+-- (*) Scholars can visit your fortress libraries, bringing knowledge from around the world
+	- same deal as above! wowwowowowowowowow
+-  (*) Dwarves read books in the library (they don't need to be scholars)
+- DWARVES READ- thi
+-- (*) Values can be passed in writing (both modes) and through adventure mode arguments (uses some conversation skills)
+	- passing values, history, etc. allows for more engagement with historical inquiry in-game: allows for historical thinking skills to flesh out more?
+- (*) Adventurers can compose new poems, music and dances
+	- w/ poems about history of world, fascinating way to spread history.
+-- (*) Adventurers can write material down on empty quires or scrolls
+	- recording world experience and allowing others to read it - wow! can NPC characters etc. read this, or is it customized too much?
+	
+---------
+so... how can all this translate into my discussion of DF as it stands
+- split between narrative and simulation of DF - these are NARRATIVE elements of the simulation
+- allow for greater causal relationship with world at large, both in the sense of spreading info, and in sense of understanding events elsewhere or being given the chance to understand them. 
+- narrativize histories found in libraries - possible to find something like a tholtig cryptbrain or cacame there. 
