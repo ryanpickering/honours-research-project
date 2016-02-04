@@ -1,0 +1,45 @@
+http://www.samanthablackmon.net/courses/sp10/Engl605/sites/default/files/foguHSTHRY48.2.pdf (important stuff often highlighted)
+
+- this reading is very high-level - spends a lot of time speaking about films and other digital history things
+- digital history, especially videogames, alter the way history has been done for a long time
+- change conception of linear narrative history as the be all end all
+
+- videogames, through example of holocaust II, change how historical consciousness / collective memories are built in ppls minds
+- are they revolutionary or remediation? all new forms (tv, movie, etc) still work with narrative linear format of yesterday
+- create immediacy in better ways. videogames use HYPERMEDIACY to achieve it (mimick logic of reality, etc.)
+	- procedural rhetoric spoken about later in the piece but is here too
+- sensory experience of real ie VR helmets not as effective as using hypermediacy. 
+- can't look at videogames away from other digital remediations of history
+- all historical imagination, consciousness created in response to structures of linear narrative history around us. interactivity as an afterthought almost
+- Ayers: digital offers historians the ability to give us "representation" for "interactivity" 
+	- DF - interactivity translated to representation
+
+- digitalization of archives: accessibility, democratization, questioning things
+- sept 11 archive: no structuring of sources into narrative, but just things uploaded by everyman, everywoman. FONDS
+- reframes history - witnessing instead of making, experience rather than action. 
+- look at 9/11 archive from Kant perspective of historical eventfulness, signum. supposed to be a signifier of meaning in the world as opposed to facts. 
+- 9/11 archive has specific focus on facts instead of narrative meaning making - shows a big change in history semantics thru digital
+	- experience over narrative, virtuality over transcendental history, witnessing rather than rhetorical construction.
+	
+- codification of PRESENCE in historical representations - historic present grammar, etc. (enargaeia, ancient greek history thru witness, identity of reader as witness)
+- digital tech in films to reconstitute historical films thru image, editing, mise-en-scene, etc. blur borders between historical real (recorded) and historicla fiction. 
+- identify the past more with PLACE than time now. 
+- enargaeia becomes disconnected from historic, historical. history made virtual instead of made present
+- documentary changes now too: ken burns' embrace of the digital shows this 
+- increased move towards embodiment in cinema
+
+- so VIRTUALIZATION of history and SPATIALIZATION of history, away from traditional inherent, transcendental, kant-esque history and away from time based linear narrative history. 
+	- how do these work in DF? virtualization obviously- experience of individual play then translated to narrative, as opposed to grand narratives of history that do not engage with historical thinking for a reader. fits in with microhistory discussion, fonds, etc.
+	- not sure how to resolve the latter. DF narratives static in gameworld, not grand narratives of all time like trad. history? again - microhistory
+	
+- civ - as "rewriting history." is a problematic but also well-loved game for history/historians. 
+- their disagreements come down to what they consider HISTORY (capital H) - either...
+	- "discourse anchoring representation to the real past that SMC supposedly does not measure up to (critics)"
+	- "transcendental Grand Narrative of mankind in time waiting to be deconstructed by video games such as SMC (enthusiasts)."
+- critics critique game based on its western-american determinism, tech limits, etc. by doing so, critique through transforming play into narrative instead of simulation/interactivity/immersion
+- civ engages well w/ procedural rhetoric: persuasion through rule-based representations instead of words, images, etc. game creators create worlds governed by rules that limit the field of play. to play is to move in that field and in doing so, make claims about the represented world. 
+- history thus represented as rules of interaction over patterns of writing
+- logic of the game pushes players to learn internal logic and code of game to win over the external labelling of historical figures, etc. 
+- this game is a quintessential history producing game, creating speculative and conditional historical situations - a simulation!
+- is postmodern history in the sense of its creation of histories over the texts of it
+- civ helps to dislodge history from determinism!!!
