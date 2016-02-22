@@ -8,4 +8,5 @@
 * [Mini-post: Mindmap Exercise / Where Are We Headed?](updates/post4.1-nov-20.md)
 * ["Dwarven Epitaphs" and Narrativization](updates/post5-dec-28.md)
 * [Annales History in Dwarf Fortress's Legends Mode](updates/post6-jan-6.md)
+* [Thesis Writing Update 1: Table of Contents, Bibliography Preview](updates/post7-feb-21.md)
 * [License](license.md)
