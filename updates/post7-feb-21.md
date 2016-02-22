@@ -20,18 +20,18 @@ Speaking of Word, I have to say that if I were trying to write this thesis in a 
 
 In terms of bibliography, the vast amount of literature I'm engaging with really makes me feel like this is a legit endeavour. So many scholars have written on things I am drawing in, and while I only have one peer-reviewed piece talking about Dwarf Fortress - the piece by Boluk and LeMieux I have written about previously - they all fit together in fascianting ways to talk about education, simulation, historiography, microhistory, wikis, and so much more. Here is a list, not formatted in any proper way or annotated (though I might come back and do that later), of sources I've pulled some great stuff from, as both a) a hint to what I'll be discussing throughout the paper, and b) to possibly inspire people in the community to suggest some other pieces to pull from.
 
-> Matthew Barr - Learning through collaboration: video game wikis
-> Stephanie Boluk and Patrick LeMieux - Dwarven Epitaphs: Procedural Histories in Dwarf Fortress
-> Jerremie Clyde, Howard Hopkins, Glenn Wilkinson - Beyond the "Historical" Simulation: Using Thoeries of History to Inform Scholarly Game Design
-> Claudio Fogu - Digitalizing Historical Consciousness
-> Gonzalo Frasca - Simulation versus Narrative: Introduction to Ludology
-> Kevin Kee, Shawn Graham, et al. - Towards a Theory of Good History Through Gaming
-> Giovanni Levi - On Microhistory
-> Arthur Lewis and David Smith - Defining Higher Order Thinking
-> John Rice - Assessing Higher Order Thinking in Video Games
-> Peter Seixas and Carla Peck - Teaching Historical Thinking
-> István Szijárto - Four Arguments for Microhistory
-> William Uricchio - Simulation, History, and Computer Games
+> * Matthew Barr - Learning through collaboration: video game wikis
+> * Stephanie Boluk and Patrick LeMieux - Dwarven Epitaphs: Procedural Histories in Dwarf Fortress
+> * Jerremie Clyde, Howard Hopkins, Glenn Wilkinson - Beyond the "Historical" Simulation: Using Thoeries of History to Inform Scholarly Game Design
+> * Claudio Fogu - Digitalizing Historical Consciousness
+> * Gonzalo Frasca - Simulation versus Narrative: Introduction to Ludology
+> * Kevin Kee, Shawn Graham, et al. - Towards a Theory of Good History Through Gaming
+> * Giovanni Levi - On Microhistory
+> * Arthur Lewis and David Smith - Defining Higher Order Thinking
+> * John Rice - Assessing Higher Order Thinking in Video Games
+> * Peter Seixas and Carla Peck - Teaching Historical Thinking
+> * István Szijárto - Four Arguments for Microhistory
+> * William Uricchio - Simulation, History, and Computer Games
 
 Alongside all of this, I have numerous non-academic sources on Dwarf Fortress procedure, mechanics, community, and narrative that will be explored extensively throughout the piece.
 
